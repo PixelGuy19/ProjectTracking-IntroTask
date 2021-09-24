@@ -1,0 +1,13 @@
+E:\XP_Greend_Projects\Erlè\Erlè\bin\Debug\netcoreapp3.1\Erlè.exe
+E:\XP_Greend_Projects\Erlè\Erlè\bin\Debug\netcoreapp3.1\Erlè.deps.json
+E:\XP_Greend_Projects\Erlè\Erlè\bin\Debug\netcoreapp3.1\Erlè.runtimeconfig.json
+E:\XP_Greend_Projects\Erlè\Erlè\bin\Debug\netcoreapp3.1\Erlè.runtimeconfig.dev.json
+E:\XP_Greend_Projects\Erlè\Erlè\bin\Debug\netcoreapp3.1\Erlè.dll
+E:\XP_Greend_Projects\Erlè\Erlè\bin\Debug\netcoreapp3.1\Erlè.pdb
+E:\XP_Greend_Projects\Erlè\Erlè\obj\Debug\netcoreapp3.1\Erlè.csproj.AssemblyReference.cache
+E:\XP_Greend_Projects\Erlè\Erlè\obj\Debug\netcoreapp3.1\Erlè.AssemblyInfoInputs.cache
+E:\XP_Greend_Projects\Erlè\Erlè\obj\Debug\netcoreapp3.1\Erlè.AssemblyInfo.cs
+E:\XP_Greend_Projects\Erlè\Erlè\obj\Debug\netcoreapp3.1\Erlè.csproj.CoreCompileInputs.cache
+E:\XP_Greend_Projects\Erlè\Erlè\obj\Debug\netcoreapp3.1\Erlè.dll
+E:\XP_Greend_Projects\Erlè\Erlè\obj\Debug\netcoreapp3.1\Erlè.pdb
+E:\XP_Greend_Projects\Erlè\Erlè\obj\Debug\netcoreapp3.1\Erlè.genruntimeconfig.cache
